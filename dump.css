@@ -1,0 +1,101 @@
+@keyframes orbit-mercury {
+    0% {
+      /* top:50%;
+      right:-11px; */
+      transform:translate(0, 0);
+    }
+    5% {
+      /* top:41%;
+      right:0; */
+      transform:translate(-3px, -50px);
+    }
+    10% {
+      /* top:35%;
+      right:1%; */
+      transform:translate(-17px, -100px);
+    }
+    15% {
+      /* top:30%;
+      right:3%; */
+      transform:translate(-43px, -150px);
+    }
+    20% {
+      /* top:25%;
+      right:5%; */
+      transform:translate(-78px, -200px);
+    }
+    25% {
+      /* top: 20%;
+      right:9%; */
+      transform:translate(-130px, -250px);
+    }
+    30% {
+      /* top: 15%;
+      right:13%; */
+      transform:translate(-196px, -300px);
+    }
+    35% {
+      /* top: 10%;
+      right:18%; */
+      transform:translate(-287px, -350px);
+    }
+    40% {
+      /* top: 5%;
+      right:25%; */
+      transform:translate(-407px, -400px);
+    }
+    45% {
+      /* top: 2.5%;
+      right:30%; */
+      transform:translate(-580px, -450px);
+    }
+    50% {
+      /* top: -1%;
+      right:50%; */
+      transform:translate(-975px, -485px);
+    }
+    /* 55% {
+      top: 100%;
+      right:55%;
+    }
+    52% {
+      bottom: 0;
+      right:50%;
+    }
+    60% {
+      bottom: 2.5%;
+      right:30%;
+    }
+    65% {
+      bottom: 5.5%;
+      right:25%;
+    }
+    70% {
+      bottom: 10%;
+      right:18%;
+    }
+    75% {
+      bottom: 15%;
+      right:12%;
+    }
+    80% {
+      bottom: 20%;
+      right:9%;
+    }
+    85% {
+      bottom: 25%;
+      right:5%;
+    }
+    90% {
+      bottom: 30%;
+      right:3%;
+    }
+    95% {
+      bottom: 35%;
+      right:1%;
+    }
+    100% {
+      bottom: 40%;
+      right:0;
+    } */
+}
